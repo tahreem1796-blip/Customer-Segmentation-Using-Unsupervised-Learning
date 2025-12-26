@@ -1,4 +1,6 @@
 ***Customer Segmentation Using Unsupervised Learning***
+
+
 **Task Objective**
 
 Cluster customers based on their spending habits and propose marketing strategies tailored to each segment.
