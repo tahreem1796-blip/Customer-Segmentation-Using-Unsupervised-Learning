@@ -3,7 +3,7 @@ Task Objective
 
 Cluster customers based on their spending habits and propose marketing strategies tailored to each segment.
 
-Your Approach
+**Your Approach**
 
 Data Preprocessing: Loaded the Mall Customers dataset, checked for missing values, and selected Annual Income and Spending Score as key features. Scaled the features for K-Means clustering.
 
